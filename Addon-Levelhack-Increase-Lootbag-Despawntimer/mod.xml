@@ -1,0 +1,10 @@
+<mod>
+	<info>
+		<author>Levelhack</author>
+		<name>Addon-Levelhack-Increase-Lootbag-Despawntimer</name>
+		<description>Increases the lootbag despawn timer from 1200 (20 RL minutes) to 2400 (40 RL minutes)</description>
+		<mod_version>1.0</mod_version>
+		<game_version>20.0</game_version>
+		<launcher_version>0.0.0</launcher_version>
+	</info>
+</mod>

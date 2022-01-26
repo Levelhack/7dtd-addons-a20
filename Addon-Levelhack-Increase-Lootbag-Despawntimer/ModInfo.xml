@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Addon-Levelhack-Increase-Lootbag-Despawntimer" />
+		<Description value="Increases the lootbag despawn timer from 1200 (20 RL minutes) to 2400 (40 RL minutes)" />
+		<Author value="Levelhack" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
