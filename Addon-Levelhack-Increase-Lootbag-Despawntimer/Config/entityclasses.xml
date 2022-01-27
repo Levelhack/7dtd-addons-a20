@@ -1,4 +1,4 @@
-<coonfig>
+<config>
 
 	<set xpath="/entity_classes/entity_class[contains(@name, 'EntityLoot')]/property[contains(@name, 'TimeStayAfterDeath')]/@value">2400</set>
 
